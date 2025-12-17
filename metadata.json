@@ -1,0 +1,5 @@
+{
+  "name": "SysMetric Pulse",
+  "description": "A comprehensive system resource analyzer that visualizes CSV metrics and provides AI-driven insights using Gemini.",
+  "requestFramePermissions": []
+}
